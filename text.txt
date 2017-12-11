@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-asdasdadasdas
-=======
 aaaa
->>>>>>> DUCTEST
